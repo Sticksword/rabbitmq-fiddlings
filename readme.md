@@ -16,3 +16,11 @@
 Special thanks to Pivotal and the team at RabbitMQ for the great tutorials and docs
 
 See more: https://www.rabbitmq.com/
+
+associated files:
+* send.py --> receive.py
+* new_task.py --> worker.py
+* emit_log.py --> receive_logs.py
+* emit_log_direct.py --> receive_logs_direct.py
+* emit_log_topic.py --> receive_logs_topic.py
+* rpc_client.py <--> rpc_server.py
