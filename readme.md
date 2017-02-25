@@ -17,7 +17,7 @@ Special thanks to Pivotal and the team at RabbitMQ for the great tutorials and d
 
 See more: https://www.rabbitmq.com/
 
-associated files:
+##### Associated files and data flow:
 * send.py --> receive.py
 * new_task.py --> worker.py
 * emit_log.py --> receive_logs.py
